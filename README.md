@@ -7,3 +7,4 @@ cd configurations
 bash install.sh
 ```
 you need bash to install ts ts ts ts ts unless you manually move the files into the correct directories
+this isnt tested lmk if it rm -rf's your system or whatever ok 

@@ -31,7 +31,7 @@ echo "  copied .zshrc → ~/"
 # kitty → ~/.config/kitty
 backup_if_exists "$HOME/.config/kitty"
 mkdir -p "$HOME/.config"
-cp -r "$FILES_DIR/kitty" "$HOME/.config/kitty"
+cp -r "$FILES_DIR/kitty" "$HOME/.config/"
 echo "  copied kitty → ~/.config/kitty"
 
 # fastfetch → ~/.config/fastfetch
